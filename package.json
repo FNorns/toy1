@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rimraf dist && mkdir dist && echo hahaha > dist/output.txt"
+    "build": "rimraf dist && mkdir dist && echo branch > dist/output.txt"
   },
   "keywords": [],
   "author": "",
